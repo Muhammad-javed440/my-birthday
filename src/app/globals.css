@@ -25,6 +25,7 @@ body {
     text-wrap: balance;
   }
 }
+<<<<<<< HEAD
 
 @layer base {
   :root {
@@ -90,3 +91,5 @@ body {
     @apply bg-background text-foreground;
   }
 }
+=======
+>>>>>>> origin/master
